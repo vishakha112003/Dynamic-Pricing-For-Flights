@@ -47,5 +47,10 @@ From the Xgboost regressor, we now have the predicted prices for each customer. 
 
 We then finally print the revenue before and after optimization, allowing usto compare the effectiveness of the optimization process in maximizing revenue within the specified constraints.
 
+![](/images/rev.png)
+
+Based on the results presented above, it’s evident that the revenue achieved after optimization surpasses the initial revenue, all while adhering to our specified constraints. Our primary objective was to maximize revenue regardless of operational expenses. 
+
+Unlike static pricing approaches, this dynamic method allows us to adapt to changes in customer behavior, demand fluctuations, and other market dynamics, ultimately leading to more responsive and effective pricing strategies.
 
 
