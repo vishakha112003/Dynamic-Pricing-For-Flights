@@ -18,12 +18,12 @@ Some of the visuals are shown below:
 
 ![](/images/visual.png)
 
-![](/images/visual2.png)
+![](/images/visual 2.png)
 
-![](/images/visual3.png)
+![](/images/visual 3.png)
 
-![](/images/visual4.png)
+![](/images/visual 4.png)
 
-![](/images/visual5.png)
+![](/images/visual 5.png)
 
 
