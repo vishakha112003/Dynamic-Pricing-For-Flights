@@ -16,14 +16,14 @@ The data preprocessing involved splitting the Airline- Class column to get the a
 Data visualization plays a critical role in dynamic pricing by providing visual insights into demand patterns, customer behavior, and the competitive landscape among various airlines. This visual representation aids in better understanding the data, allowing for more informed pricing decisions and strategic planning.
 Some of the visuals are shown below:
 
-![](/images/visual.jpg)
+![](/images/visual.png)
 
-![](/images/visual2.jpg)
+![](/images/visual2.png)
 
-![](/images/visual3.jpg)
+![](/images/visual3.png)
 
-![](/images/visual4.jpg)
+![](/images/visual4.png)
 
-![](/images/visual5.jpg)
+![](/images/visual5.png)
 
 
